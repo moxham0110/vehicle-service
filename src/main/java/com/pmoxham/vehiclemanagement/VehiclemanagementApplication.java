@@ -1,13 +1,13 @@
-package com.pmoxham.vehicle_service;
+package com.pmoxham.vehiclemanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VehicleServiceApplication {
+public class VehiclemanagementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VehicleServiceApplication.class, args);
+		SpringApplication.run(VehiclemanagementApplication.class, args);
 	}
 
 }
